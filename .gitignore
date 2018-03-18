@@ -8,3 +8,6 @@ __pycache__/
 
 # winmerge
 *.bak
+
+# test output
+*.mkv
